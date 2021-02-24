@@ -5,12 +5,12 @@ id: ignorepausedforuser
 title: IgnorePausedForUser
 description: Plugin to ignore 'Paused for User' message from printer.
 authors:
-- Davide Mencarelli <d.mencarelli@outlook.com>
+- Davide Mencarelli
 #- second autor name
 license: GNU v3.0
 
 # today's date in format YYYY-MM-DD, e.g.
-date: 2021-02-19
+date: 2021-02-24
 
 homepage: https://github.com/DavideM84/OctoPrint-IgnorePausedForUser
 source: https://github.com/DavideM84/OctoPrint-IgnorePausedForUser
